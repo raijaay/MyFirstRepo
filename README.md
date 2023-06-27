@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raijaay
-- 👀 I’m interested in iOS Developer Back-end Developer and Data Analyst 
-- 🌱 I’m currently learning Swift language, Python, HTML, and also SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in iOS Developer, Back-end Developer and Data Analyst 
+- 🌱 I’m currently learning Swift language, Python, HTML, CSS, Java Script, also SQL & MySQL
+- 💞️ I’m looking to collaborate on growing up together 
 - 📫 How to reach me? Hmu on <a href="mailto: raijaach@gmail.com ">E-Mail</a>, <a href="https://www.instagram.com/raijaay ">IG</a>, <a href="https://secreto.site/ag6io6 ">secreto</a>
 
 <!---
