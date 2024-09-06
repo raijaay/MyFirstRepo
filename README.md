@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raijaay
+- 👋 Hi, I’m raija
 - 👀 I’m interested in iOS Developer, Back-end Developer and Data Analyst 
 - 🌱 I’m currently learning Swift language, Python, HTML, CSS, Java Script, also SQL & MySQL
 - 💞️ I’m looking to collaborate on growing up together 
